@@ -1,3 +1,6 @@
+#我定义的
+/status.bat
+
 .DS_Store
 node_modules/
 dist/
@@ -21,5 +24,3 @@ selenium-debug.log
 package-lock.json
 yarn.lock
 
-#我定义的
-/status.bat
