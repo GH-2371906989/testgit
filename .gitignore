@@ -1,5 +1,5 @@
 #我定义的
-/查看
+*.txt
 
 .DS_Store
 node_modules/
