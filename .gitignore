@@ -22,4 +22,4 @@ package-lock.json
 yarn.lock
 
 #我定义的
-/*..bat
+/status.bat
