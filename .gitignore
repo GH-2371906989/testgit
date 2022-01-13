@@ -18,6 +18,8 @@ selenium-debug.log
 *.njsproj
 *.sln
 *.local
-status.bat
 package-lock.json
 yarn.lock
+
+#我定义的
+*..bat
